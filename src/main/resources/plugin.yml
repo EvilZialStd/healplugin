@@ -4,3 +4,7 @@ version: '${version}'
 main: me.evilzialstd.healPlugin.HealPlugin
 api-version: '1.21.4'
 load: POSTWORLD
+
+commands:
+  heal:
+    description: "This command heal player."
