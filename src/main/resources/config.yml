@@ -1,0 +1,7 @@
+
+
+messages:
+  healed: "You're healed."
+  health-unavailable: "Could not get your maximum health."
+  players-only: "Only players can use this command."
+  no-permission: "You don't have permission to use this command."

@@ -8,3 +8,9 @@ load: POSTWORLD
 commands:
   heal:
     description: "This command heal player."
+    permission: healplugin.heal
+
+permissions:
+  healplugin.heal:
+    description: Allows using /heal
+    default: op
